@@ -136,7 +136,8 @@ EXPOSE 161 162 1995 6683 8080 8081
 
 CMD \
     # Start rsyslog for logging
-    service rsyslog start && \
+    # `service rsyslogd start` and `rsyslogd` hangs and hog a cpu core
+    rsyslogd -n & \
     # Start the fledge service
     # Why does this fail/return non-zero?
     ./scripts/fledge start || true && \
