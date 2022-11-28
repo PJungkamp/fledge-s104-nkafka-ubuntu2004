@@ -13,7 +13,10 @@ This walks through every element in a JSON structure and tries to parse it as JS
 Pipe a JSON stream into it or pass an input file as an additional parameter.
 
 ```shell
-jq --raw-input 'def expand: walk((fromjson? | expand) // .); expand'
+FLEDGE_API="http://localhost:8081/fledge"
+
+curl -sX GET "$FLEDGE_API/category/sIEC104/exchanged_data" |\
+    jq --raw-input 'def expand: walk((fromjson? | expand) // .); expand'
 ```
 
 You should also consider using `--compact-output` and `--unbuffered` where sensible.
