@@ -6,181 +6,181 @@
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "00-real",
+        "label": "00-magnitude",
         "ioa": 4202832
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "00-imag",
+        "label": "00-phase",
         "ioa": 4202833
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "01-real",
+        "label": "01-magnitude",
         "ioa": 4202834
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "01-imag",
+        "label": "01-phase",
         "ioa": 4202835
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "02-real",
+        "label": "02-magnitude",
         "ioa": 4202836
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "02-imag",
+        "label": "02-phase",
         "ioa": 4202837
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "03-real",
+        "label": "03-magnitude",
         "ioa": 4202838
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "03-imag",
+        "label": "03-phase",
         "ioa": 4202839
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "04-real",
+        "label": "04-magnitude",
         "ioa": 4202840
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "04-imag",
+        "label": "04-phase",
         "ioa": 4202841
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "05-real",
+        "label": "5-magnitude",
         "ioa": 4202842
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "05-imag",
+        "label": "5-phase",
         "ioa": 4202843
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "06-real",
+        "label": "6-magnitude",
         "ioa": 4202844
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "06-imag",
+        "label": "6-phase",
         "ioa": 4202845
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "07-real",
+        "label": "7-magnitude",
         "ioa": 4202846
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "07-imag",
+        "label": "7-phase",
         "ioa": 4202847
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "08-real",
+        "label": "8-magnitude",
         "ioa": 4202848
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "08-imag",
+        "label": "8-phase",
         "ioa": 4202849
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "09-real",
+        "label": "9-magnitude",
         "ioa": 4202850
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "09-imag",
+        "label": "9-phase",
         "ioa": 4202851
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "10-real",
+        "label": "10-magnitude",
         "ioa": 4202852
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "10-imag",
+        "label": "10-phase",
         "ioa": 4202853
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "11-real",
+        "label": "11-magnitude",
         "ioa": 4202854
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "11-imag",
+        "label": "11-phase",
         "ioa": 4202855
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "12-real",
+        "label": "12-magnitude",
         "ioa": 4202856
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "12-imag",
+        "label": "12-phase",
         "ioa": 4202857
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "13-real",
+        "label": "13-magnitude",
         "ioa": 4202858
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "13-imag",
+        "label": "13-phase",
         "ioa": 4202859
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "14-real",
+        "label": "14-magnitude",
         "ioa": 4202860
       },
       {
         "ca": 41025,
         "type_id": "M_ME_TF_1",
-        "label": "14-imag",
+        "label": "14-phase",
         "ioa": 4202861
       }
     ]
